@@ -10596,3 +10596,9 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
+
+$(function() {
+
+	$card-img-top 
+
+});
